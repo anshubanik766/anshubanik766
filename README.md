@@ -19,11 +19,30 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anshubanik766\&show_icons=true\&theme=tokyonight)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=anshubanik766&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshubanik766&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anshubanik766\&layout=compact\&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshubanik766&theme=tokyonight&hide_border=true&border_radius=15" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anshubanik766&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshubanik766&theme=tokyo-night&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anshubanik766&label=Profile%20Views&color=6A5ACD&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/anshubanik766?style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/stars/anshubanik766?style=for-the-badge&color=yellow" />
+</p>
 
 ---
 
