@@ -17,6 +17,7 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23%20%7C%20.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge\&logo=kotlin\&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift%20%7C%20Apple-F05138?style=for-the-badge&logo=swift&logoColor=white)
 
 ---
 
